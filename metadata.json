@@ -1,0 +1,5 @@
+{
+  "name": "Banana AI Task Manager",
+  "description": "Ứng dụng quản lý tác vụ tạo ảnh AI chuyên nghiệp sử dụng Gemini (Nano Banana Models). Hỗ trợ chạy hàng loạt, ảnh tham chiếu và cấu hình chi tiết từng dòng.",
+  "requestFramePermissions": []
+}
